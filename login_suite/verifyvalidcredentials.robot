@@ -13,7 +13,9 @@ Test Teardown   End Browser
 Test Template   Verify Valid Credentials Template
 *** Test Cases ***
 TC1
-
+TC2
+TC3
+TC4
 *** Keywords ***
 Verify Valid Credentials Template
     [Arguments]     ${username}     ${password}

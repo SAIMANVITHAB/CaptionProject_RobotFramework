@@ -13,6 +13,9 @@ Test Teardown   End Browser
 Test Template   Verify Invalid Credentials Template
 *** Test Cases ***
 TC1
+TC2
+TC3
+TC4
 
 *** Keywords ***
 Verify Invalid Credentials Template
